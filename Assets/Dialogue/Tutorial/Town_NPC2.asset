@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e723e02a27933aa4f9a4ceba9631a63a, type: 3}
+  m_Name: Town_NPC2
+  m_EditorClassIdentifier: 
+  dialogueName: Town_NPC2
+  lines:
+  - speaker: "\uAC80\uC744 \uB4E0 \uB0A8\uC131"
+    content: "\uD558.. \uC57C\uB2E8\uB0AC\uAD70"
+    portrait: {fileID: 0}
+  - speaker: 
+    content: "\uAD1C\uCC2E\uC73C\uC2E0\uAC00\uC694? \uCE5C\uAD6C\uBD84\uC774 \uBD80\uD0C1\uD558\uC154\uC11C
+      \uC654\uC5B4\uC694"
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
+  - speaker: "\uAC80\uC744 \uB4E0 \uB0A8\uC131"
+    content: "\uAC80\uC744 \uC950\uAE30\uB294 \uD588\uB294\uB370.. \uBAB8\uC774 \uC548
+      \uC6C0\uC9C1\uC774\uB294 \uAC83 \uAC19\uC544. \uAF34\uC0AC\uB098\uC6B4 \uBAA8\uC2B5\uC744
+      \uBCF4\uC774\uAC8C \uB410\uB124."
+    portrait: {fileID: 0}
+  - speaker: 
+    content: "\uC800\uC5D0\uAC8C \uB9E1\uACA8\uC8FC\uC138\uC694. \uC774\uB798\uBCF4\uC5EC\uB3C4
+      \uAE30\uC0AC\uB2E8\uC774\uAC70\uB4E0\uC694."
+    portrait: {fileID: -4058797621661292805, guid: 04a97d68286e3b44c852a5290e80d1bf,
+      type: 3}
