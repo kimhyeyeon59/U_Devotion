@@ -142,10 +142,10 @@ TextureImporter:
       name: P_Lowell_0
       rect:
         serializedVersion: 2
-        x: 66
+        x: 16
         y: 0
-        width: 908
-        height: 1511
+        width: 1002
+        height: 1493
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

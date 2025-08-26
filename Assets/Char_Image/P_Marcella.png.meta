@@ -142,10 +142,10 @@ TextureImporter:
       name: P_Marcella_0
       rect:
         serializedVersion: 2
-        x: 138
+        x: 54
         y: 0
-        width: 748
-        height: 1490
+        width: 924
+        height: 1499
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

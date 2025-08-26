@@ -8833,6 +8833,7 @@ MonoBehaviour:
   audioSource: {fileID: 805069041}
   petSound: {fileID: 8300000, guid: cdf028e180f76ab4e90edca067504da2, type: 3}
   interactionText: {fileID: 1140408072}
+  catMessageDialogue: {fileID: 11400000, guid: 284cf810cfe9e2c4aa30a7a083a03aca, type: 2}
 --- !u!61 &805069040
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21662,6 +21663,7 @@ MonoBehaviour:
   potionDrinkClip: {fileID: 8300000, guid: cca9f4828fece234ead0f1cda6236319, type: 3}
   potionHintUI: {fileID: 0}
   attackHintObject: {fileID: 0}
+  HideUI: {fileID: 0}
 --- !u!4 &1787174916
 Transform:
   m_ObjectHideFlags: 0
@@ -23698,12 +23700,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4861058038616452830, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1006.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4861058038616452830, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 21.12
+      objectReference: {fileID: 0}
     - target: {fileID: 4945167170362500153, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
         type: 3}
       propertyPath: dialogueData
       value: 
       objectReference: {fileID: 11400000, guid: 953664352a29d2a4b9571849edf25cac,
         type: 2}
+    - target: {fileID: 7888305410865824448, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

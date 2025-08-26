@@ -24,8 +24,8 @@ MonoBehaviour:
     portrait: {fileID: 4430988173333172318, guid: c330743233cb4fc488aeada9d1e77403,
       type: 3}
   - speaker: "\uB85C\uC6F0"
-    content: "\uC6B0\uB9AC\uB3C4 \uBAAC\uC2A4\uD130\uD55C\uD14C \uAC1C\uC8FD\uC74C\uB2F9\uD558\uAE30
-      \uC804\uC5D0 \uBE68\uB9AC \uC11C\uCABD\uC73C\uB85C \uAC00\uC790\uACE0"
+    content: "\uC6B0\uB9AC\uB3C4 \uB9C8\uBB3C\uD55C\uD14C \uB2F9\uD558\uAE30 \uC804\uC5D0
+      \uBE68\uB9AC \uC11C\uCABD\uC73C\uB85C \uAC00\uC790\uACE0"
     portrait: {fileID: -25169388900506376, guid: f12422bc291a35f4e8e36de8a5989813,
       type: 3}
   - speaker: "\uACE0\uB4DC\uB9AD"

@@ -887,6 +887,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DialogueManager
       objectReference: {fileID: 0}
+    - target: {fileID: 736058488345467628, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 62087581}
     - target: {fileID: 1092684689544047341, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
         type: 3}
       propertyPath: dialogueData
@@ -940,6 +945,21 @@ PrefabInstance:
     - target: {fileID: 4571754935328293790, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4861058038616452830, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1006.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4861058038616452830, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 21.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7888305410865824448, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

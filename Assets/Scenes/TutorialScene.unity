@@ -19782,7 +19782,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: DialogueManager
       objectReference: {fileID: 0}
+    - target: {fileID: 736058488345467628, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 519420031}
     - target: {fileID: 838821461774243611, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 519420031}
+    - target: {fileID: 1924037345197577949, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
         type: 3}
       propertyPath: m_Camera
       value: 
@@ -19837,6 +19847,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4861058038616452830, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1007.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 4861058038616452830, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 21.66
+      objectReference: {fileID: 0}
     - target: {fileID: 4945167170362500153, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
         type: 3}
       propertyPath: dialogueData
@@ -19848,6 +19868,11 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 519420031}
+    - target: {fileID: 7888305410865824448, guid: 0a50bd1def1c36f4ea8a9666b1ea700e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

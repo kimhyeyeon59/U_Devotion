@@ -11,6 +11,8 @@ public class CatInteraction : MonoBehaviour
     private bool isPet = false;
     private bool playerInRange = false;
 
+    public DialogueData catMessageDialogue;
+
     void Start()
     {
         if (interactionText != null)
@@ -33,11 +35,14 @@ public class CatInteraction : MonoBehaviour
         if (petSound != null && audioSource != null)
             audioSource.PlayOneShot(petSound);
 
-        // 하트(체력) 풀 회복
+        // 플레이어 체력 풀 회복
         PlayerStats.Instance.Heal(PlayerStats.Instance.MaxHealth);
 
         if (interactionText != null)
             interactionText.SetActive(false);
+
+        // 대화 시작
+        DialogueManager.Instance.StartDialogue(catMessageDialogue);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
